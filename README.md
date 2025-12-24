@@ -1,7 +1,7 @@
 # DijkstraUi
 A simple GUI to visualize Dijkstra's algorithm and find the shortest path in a weighted graph.
 
-![Example](preview.gif)
+[![Example](preview.gif)](https://github.com/user-attachments/assets/565883d4-ae8f-45fe-b059-8f20d69e20c2)
 
 ## Features
 - Visualizes nodes and edges
